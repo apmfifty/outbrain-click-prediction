@@ -1,0 +1,15 @@
+.pkl
+.gitignore
+.ipynb_checkpoints/
+
+
+.idea/
+.DS_Store
+*.bak
+*.pyc
+*.log
+*.csv
+*.zip
+*.xlsx
+
+
